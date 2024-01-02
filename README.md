@@ -1,7 +1,7 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://www.chiefdisruptor.com/hubfs/Untitled%20design-1.gif)
 <h1 align="center">Hi 👋, I'm Durga Prajapati</h1>
 <h3 align="center">A Flutter and an Android developer</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durga2002prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="durga2002prajapati" /> </p>
 
